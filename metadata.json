@@ -1,0 +1,5 @@
+{
+  "name": "Magyar Jogszabály Kereső",
+  "description": "Jogszabályok keresése és rendszerezése az njt.hu alapján egy adott élethelyzetre.",
+  "requestFramePermissions": []
+}
