@@ -9,9 +9,8 @@
 
 This file contains everything you need to run your app locally. 
 
-<sub> the folowing Only works if you have ben given acces so normaly this wont work for you 
-
-<sub><sub>View your app in AI Studio: https://ai.studio/apps/edaaaf5d-b5a9-440d-bd9b-576570b88d95
+<sub> the folowing Only works if you have ben given acces so normaly this wont work for you <br/>
+ View your app in AI Studio: https://ai.studio/apps/edaaaf5d-b5a9-440d-bd9b-576570b88d95
 
 ## Run Locally
 
